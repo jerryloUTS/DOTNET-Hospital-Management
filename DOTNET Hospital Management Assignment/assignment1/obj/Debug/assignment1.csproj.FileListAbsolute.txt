@@ -1,0 +1,24 @@
+C:\Users\jerry\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\jerry\source\repos\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\jerry\source\repos\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\jerry\source\repos\assignment1\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\jerry\source\repos\assignment1\assignment1\obj\Debug\assignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerry\source\repos\assignment1\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\jerry\source\repos\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\jerry\source\repos\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\jerry\Downloads\assignment1\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\jerry\Downloads\assignment1\assignment1\bin\Debug\assignment1.exe
+C:\Users\jerry\Downloads\assignment1\assignment1\bin\Debug\assignment1.pdb
+C:\Users\jerry\Downloads\assignment1\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\jerry\Downloads\assignment1\assignment1\obj\Debug\assignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerry\Downloads\assignment1\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Downloads\assignment1\assignment1\obj\Debug\assignment1.exe
+C:\Users\jerry\Downloads\assignment1\assignment1\obj\Debug\assignment1.pdb
+C:\Users\jerry\Documents\Assignment 1 Submission\assignment1\bin\Debug\assignment1.exe.config
+C:\Users\jerry\Documents\Assignment 1 Submission\assignment1\bin\Debug\assignment1.exe
+C:\Users\jerry\Documents\Assignment 1 Submission\assignment1\bin\Debug\assignment1.pdb
+C:\Users\jerry\Documents\Assignment 1 Submission\assignment1\obj\Debug\assignment1.csproj.AssemblyReference.cache
+C:\Users\jerry\Documents\Assignment 1 Submission\assignment1\obj\Debug\assignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerry\Documents\Assignment 1 Submission\assignment1\obj\Debug\assignment1.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Documents\Assignment 1 Submission\assignment1\obj\Debug\assignment1.exe
+C:\Users\jerry\Documents\Assignment 1 Submission\assignment1\obj\Debug\assignment1.pdb
